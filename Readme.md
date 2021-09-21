@@ -1,4 +1,4 @@
 Hello its first string 
-and this second string
+deteted second string
 
 
